@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm a third year Cognitive Science Major with a specialization in Machine Learning and Neurocomputation at the University of California, San Diego. I plan on specializing in data visualization/analyzation, data wrangling, data cleanup, and machine learning algorithm optimization. Beyond university, I'm pursuing work in data science, software engineering/development, data analysis, and machine learning engineering. 
+I'm a fourth year Cognitive Science Major with a specialization in Machine Learning and Neurocomputation at the University of California, San Diego. I plan on specializing in data visualization/analyzation, data wrangling, data cleanup, and machine learning algorithm optimization. Beyond university, I'm pursuing work in data science, software engineering/development, data analysis, and machine learning engineering. 
 
 
 ### Languages
