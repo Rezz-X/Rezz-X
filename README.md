@@ -22,4 +22,4 @@ I'm a fourth year Cognitive Science Major with a specialization in Machine Learn
 
 ### Languages
 
-I work primarily with Python but have some experience with C++, Java, HTML, CSS, Javascript, and Git. 
+I work primarily with Python but have some experience with C++, R, Java, HTML, CSS, Javascript, and Git. 
